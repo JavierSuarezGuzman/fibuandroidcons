@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FizzBuzz console</string>
+    <string name="txtButton">FizzBuzz</string>
+</resources>
